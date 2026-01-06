@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A minimal Tic-Tac-Toe game built with Next.js to understand the **Minimax algorithm** with a real-world example.
+A minimal Tic-Tac-Toe game built with Next.js to understand the **Minimax algorithm**.
 
 ## Features
 
